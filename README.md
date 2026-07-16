@@ -7,17 +7,13 @@
 </p>
 
 <p align="center">
-  🇪🇹 Ethiopia
-</p>
-
-<p align="center">
   Building modern, scalable, and user-focused software solutions 🚀
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+💻;Full+Stack+Developer+🚀;Backend+Developer+🛠️;Building+Modern+Applications+🌐;Exploring+Cloud,+DevOps+%26+AI+☁️&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+💻;Full+Stack+Developer+🚀;Backend+Developer+🛠️;Building+Modern+Applications+🌐&center=true&width=600&height=50">
 </h3>
 
 
@@ -40,9 +36,7 @@
 - 💻 Full Stack Developer focused on modern web technologies
 - 🛠️ Experienced in frontend development, backend systems, APIs, and databases
 - 🏗️ Interested in software architecture and system design
-- ☁️ Exploring Cloud Computing, DevOps, and AI technologies
 - 📱 Currently learning Mobile Application Development
-- 🇪🇹 Based in Ethiopia
 
 
 <br clear="right"/>
@@ -74,7 +68,7 @@
 </p>
 
 
-## ☁️ DevOps & Tools
+## 🛠️ Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,postman"/>
@@ -101,30 +95,6 @@
 
 # 🚀 Featured Projects
 
-
-## 🏢 Ethio Nordic ERP System
-
-A modern enterprise resource planning system designed with scalable backend architecture and containerized deployment.
-
-
-### Features
-
-- Business management modules
-- User and role management
-- Authentication system
-- PostgreSQL database integration
-- Redis caching
-- MinIO object storage
-- Docker based deployment
-
-
-### Technologies
-
-`React` `Laravel` `PostgreSQL` `Docker` `Nginx` `Redis` `MinIO`
-
-
-
----
 
 ## 💊 Pharmacy Management System
 
