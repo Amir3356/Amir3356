@@ -26,13 +26,16 @@ Continuously building real-world software solutions using modern technologies an
 
 | Category | Technologies |
 |----------|--------------|
-| 🎨 Frontend | React, Next.js, Tailwind CSS, shadcn/ui |
+| 🎨 Frontend | React, Next.js |
 | 🛠️ Backend | Laravel, Express.js |
 | 🗄️ Database | PostgreSQL, MongoDB |
 | ⚡ Memory Database | Redis |
 | 🌐 API Gateway | Nginx |
-| 🐳 Deployment & Infrastructure | Docker |
-| 🔧 Tools | Git, GitHub, Postman, VS Code |
+| 🐳 Deployment | Docker |
+| 🏗️ System Architecture | Monolithic Architecture, Microservices Architecture, REST API Design |
+| 🧩 Database Design | Database Modeling, ERD, Schema Design, Query Optimization |
+| 🔄 Version Control | Git, GitHub |
+| 💻 Operating System | Linux |
 
 ---
 
@@ -43,8 +46,8 @@ Continuously building real-world software solutions using modern technologies an
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |------------|----------|---------|
 | 💊 Pharmacy Management System | React (Vite), Laravel, MySQL | GitHub Repo |
-| 🚗 Garage Management System | React (Vite), Tailwind CSS, Laravel, MySQL | GitHub Repo |
-| 🗳️ School Voting System | React, Tailwind CSS, Laravel, MySQL | GitHub Repo |
+| 🚗 Garage Management System | React (Vite), Laravel, MySQL | GitHub Repo |
+| 🗳️ School Voting System | React, Laravel, MySQL | GitHub Repo |
 | 🏢 Ethio Nordic ERP System | React, Laravel, PostgreSQL, Docker, Nginx, Redis, MinIO | GitHub Repo |
 
 ---
@@ -53,13 +56,13 @@ Continuously building real-world software solutions using modern technologies an
 
 ## 💊 Pharmacy Management System
 
-Inventory focused pharmacy web application supporting medicine management, category filtering, and real-time stock updates.
+Inventory-focused pharmacy web application supporting medicine management, category filtering, and real-time stock updates.
 
 **Features:**
 - Medicine management
 - Medicine category filtering
-- Real-time inventory updates
-- Stock monitoring
+- Real-time stock updates
+- Inventory tracking
 
 **Technologies:**
 
@@ -81,7 +84,7 @@ A full-stack garage management platform designed to improve vehicle service oper
 
 **Technologies:**
 
-React (Vite) • Tailwind CSS • Laravel • MySQL
+React (Vite) • Laravel • MySQL
 
 
 ---
@@ -101,14 +104,14 @@ A secure full-stack voting platform designed for educational institutions.
 
 **Technologies:**
 
-React • Tailwind CSS • Laravel • MySQL
+React • Laravel • MySQL
 
 
 ---
 
 ## 🏢 Ethio Nordic ERP System
 
-A modern enterprise resource planning system built with scalable technologies and containerized infrastructure.
+A modern enterprise resource planning system built with scalable technologies and containerized deployment.
 
 **Features:**
 - Business management modules
@@ -127,11 +130,7 @@ React • Laravel • PostgreSQL • Docker • Nginx • Redis • MinIO
 
 # 🚧 Currently Learning
 
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Computing
-- 🐳 DevOps and Infrastructure
-- 🔐 Secure Backend Development
-- ⚡ Distributed Systems
+- 📱 Mobile App Development
 
 
 ---
@@ -169,7 +168,7 @@ React • Laravel • PostgreSQL • Docker • Nginx • Redis • MinIO
 https://github.com/Amir3356
 
 💼 LinkedIn:
-https://linkedin.com/in/amir-siraj-7a304b329
+https://www.linkedin.com/in/amir-siraj-7a304b329/
 
 
 ---
@@ -181,6 +180,9 @@ amirsiraj1995@gmail.com
 
 📱 Telegram:
 https://t.me/AEHJSS
+
+💼 LinkedIn:
+https://www.linkedin.com/in/amir-siraj-7a304b329/
 
 🇪🇹 Ethiopia
 
