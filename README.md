@@ -2,9 +2,9 @@
 Hi there 👋 I'm Amir Siraj
 </h1>
 
-<p align="center">
-Software Developer | Full Stack Developer | Building Modern Web Applications
-</p>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;Backend+Developer;Building+Modern+Web+Applications;Exploring+Cloud,+DevOps+%26+AI&center=true&width=600&height=50">
+</h3>
 
 <p align="center">
 🇪🇹 Ethiopia
@@ -32,8 +32,7 @@ Continuously building real-world software solutions using modern technologies an
 | ⚡ Memory Database | Redis |
 | 🌐 API Gateway | Nginx |
 | 🐳 Deployment | Docker |
-| 🏗️ System Architecture | Monolithic Architecture, Microservices Architecture, REST API Design |
-| 🧩 Database Design | Database Modeling, ERD, Schema Design, Query Optimization |
+| 🏗️ Software Design | Database Design, System Architecture, REST API Design |
 | 🔄 Version Control | Git, GitHub |
 | 💻 Operating System | Linux |
 
