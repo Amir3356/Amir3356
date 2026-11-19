@@ -32,7 +32,6 @@
 - 🔐 JWT authentication, Role-Based Access Control (RBAC), and WebSockets for real-time updates.
 - 💼 Software Developer Intern @ **Betwo Tech PLC**.
 - 🌱 Currently growing in **Backend & DevOps** — deployments, SSL, DNS, firewalls, backup & recovery.
-- 🤝 Open to **DevOps & Backend Developer internships**.
 
 ---
 
@@ -83,4 +82,28 @@
 </p>
 
 <p align="center">
- 
+  <img src="https://streak-stats.demolab.com?user=Amir3356&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir3356&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amir3356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir3356/Amir3356/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake animation showing GitHub contributions" src="https://raw.githubusercontent.com/Amir3356/Amir3356/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=100&section=footer" />
+</p>
