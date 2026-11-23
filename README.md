@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Amir Siraj
 
 <p align="center">
@@ -29,6 +30,7 @@
 
 - 🇪🇹 Full-Stack Developer from Ethiopia, focused on **scalable backend systems, microservices and modern web apps**.
 - 🏗️ I build **Monolithic** and **Microservices** systems — REST / gRPC for synchronous communication, **Kafka** / **Redis** for event-driven messaging.
+- ⚡ Experienced in **Event-Driven Architecture (EDA)** using Kafka and RabbitMQ for asynchronous communication, event publishing, and message-driven systems.
 - 🔐 JWT authentication, Role-Based Access Control (RBAC), and WebSockets for real-time updates.
 - 💼 Software Developer Intern @ **Betwo Tech PLC**.
 - 🌱 Currently growing in **Backend & DevOps** — deployments, SSL, DNS, firewalls, backup & recovery.
